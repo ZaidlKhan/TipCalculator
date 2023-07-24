@@ -16,6 +16,7 @@ A simple tip calculator
 <ul>
   <li>Input your bill amount</li>
   <li>Select a tip percentage or enter a custom tip amount</li>
-  <li>View the total amount including the tipm</li>
+  <li>View the total amount including the tip</li>
 </ul>
-![](https://github.com/ZaidlKhan/TipCalculator/blob/main/demo.gif)
+
+<img src="https://github.com/ZaidlKhan/TipCalculator/blob/main/demo.gif" width="500" height="340" />
