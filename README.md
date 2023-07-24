@@ -6,7 +6,7 @@ A simple tip calculator
 </h1>
 
 <p>
-  This is a simple iOS application built with SwiftUI that allows users to calculate the tip for a given amount based off the Clover UI.
+  This is a simple iOS application built with SwiftUI that allows users to calculate the tip for a given amount. This application is based off the Clover UI.
 </p>
 
 <h2>
